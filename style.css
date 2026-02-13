@@ -43,10 +43,6 @@ button:hover {
     transform: scale(1.067);
 }
 
-a {
-    margin: 8px
-}
-
 /* Responsywność dla mobilki */
 @media (max-width: 600px) {
     h2 {

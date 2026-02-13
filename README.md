@@ -12,3 +12,5 @@ Rules:
 2. You have to be 13 years old or above or have a Parent's Consent
 3. If you think the ban was unfair, contact me at:
 ###### paszekszymon15@gmail.com
+
+btw i use arch

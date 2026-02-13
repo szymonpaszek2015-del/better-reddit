@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #0f0f0f;
+    color: #e0e0e0;
+    font-family: sans-serif; /* Dodaj to, żeby na każdym systemie był nowoczesny font */
+}
+
+h2 {
+    color: #ff4444;
+    font-size: 2.2rem;
+    margin: 16px; /* Zresetowany margines dla lepszej kontroli */
+}
+
+button {
+    padding: 10px 50px;
+    font-size: 1.1rem;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: #d0e0f0;
+    color: #010203;
+    border: none;
+    border-radius: 33px;
+    transition: all 0.25s ease-out;
+}
+
+button:hover {
+    background-color: #ff4444;
+    color: #ffffff;
+    transform: scale(1.067);
+}
+
+/* Responsywność dla mobilki */
+@media (max-width: 600px) {
+    h2 {
+        font-size: 1.2rem; /* Twoja zmiana, żeby mieściło się w jednej linii */
+    }
+
+    p {
+        font-size: 0.75rem; /* Twoja zmiana dla mobilki */
+        max-width: 90%;
+    }
+
+    button {
+        width: 85%;
+        padding: 15px 0;
+        font-size: 1.1rem; /* Zmniejszyłem odrobinę względem Twojego 1.2, żeby pasował do mniejszego tekstu */
+    }
+}

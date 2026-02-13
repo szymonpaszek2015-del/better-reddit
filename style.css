@@ -22,8 +22,9 @@ h2 {
 }
 
 p {
-    font-size: 1.2rem
-    font-family: sans-serif, 'Segoe UI'
+    font-size: 1.2rem;
+    font-family: sans-serif, 'Segoe UI';
+}
 button {
     padding: 10px 50px;
     font-size: 1.1rem;
@@ -41,6 +42,7 @@ button:hover {
     color: #ffffff;
     transform: scale(1.067);
 }
+
 a {
     margin: 8px
 }

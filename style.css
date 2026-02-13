@@ -12,7 +12,7 @@ body {
     text-align: center;
     background-color: #0f0f0f;
     color: #e0e0e0;
-    font-family: sans-serif; /* Dodaj to, żeby na każdym systemie był nowoczesny font */
+    font-family: sans-serif, Verdana; /* Dodaj to, żeby na każdym systemie był nowoczesny font */
 }
 
 h2 {

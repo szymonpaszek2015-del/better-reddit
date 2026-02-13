@@ -6,8 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btn) {
         btn.addEventListener('click', () => {
             btn.style.cursor = "default";
-            btn.style.opacity = "0.82";
+            btn.style.opacity = "0.8";
             alert("Development is 0.1% complete!")
+            btn.innerText = "Clicked!"
         });
     }
 });

@@ -36,6 +36,9 @@ button {
     border-radius: 33px;
     transition: all 0.25s ease-out;
 }
+a {
+    margin-top: 6px;
+}
 
 button:hover {
     background-color: #ff4444;

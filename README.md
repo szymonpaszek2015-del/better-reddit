@@ -10,7 +10,6 @@ The project is shared on Mozilla Public License 2.0 (MPL 2.0)
 Rules:
 1. We ensure NO unfair bans
 2. You have to be 13 years old or above or have a Parent's Consent
-3. If you think the ban was unfair, contact me at:
+3. Advertising is allowed but don't spam advertisements
+4. If you think the ban was unfair, contact me at:
 ###### paszekszymon15@gmail.com
-
-btw i use arch
